@@ -3,6 +3,7 @@
 This project is a simple registration form built with HTML, CSS, Node.js, and MongoDB. It demonstrates how to create a basic user registration system with form handling and data storage in a MongoDB database.
 
 ## Project Structure
+```sh
 Registration-form/
 │
 ├── node_modules/
@@ -16,6 +17,7 @@ Registration-form/
 ├── app.js
 ├── package.json
 └── package-lock.json
+```
 
 ## Prerequisites
 
